@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spring Boot와 AWS 웹서비스 구현 Pilot
-nav_order: 1
+nav_order: 2
 description: ""
 ---
 
