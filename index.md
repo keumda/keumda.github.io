@@ -2,20 +2,20 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Personal blog using Jekyll and hosted on GitHub Pages."
 permalink: /
 ---
 
-# Focus on writing good documentation
+# About
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Strive to earn.
 {: .fs-6 .fw-300 }
 ---
 
 ## About the project
 
-Just the Docs is &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill.com).
+Personal blog for &copy; 2020.04 by [April Keum](http://keumda.github.io).
 
 ### License
 
@@ -24,7 +24,7 @@ Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/j
 ### Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
+email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/keumda).
 
 #### Thank you to the contributors of Just the Docs!
 
