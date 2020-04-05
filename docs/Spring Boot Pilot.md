@@ -17,3 +17,5 @@ description: ""
 ### Springboot Testcode 작성
 
 ### TDD로 프로젝트 시작하고 단위테스트 작성 (Junit)
+* AssertThat in AssertJ
+* Lombok
