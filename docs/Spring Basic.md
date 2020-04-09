@@ -1,21 +1,17 @@
 ---
 layout: default
-title: Spring Boot와 AWS 웹서비스 구현 Pilot
-nav_order: 2
+title: 스프링 프레임워크 Basic
+nav_order: 3
 description: ""
 ---
 
-# IntelliJ 설정 시작
-{: .fs-9 }
+# 인프런 - 스프링 프레임워크 입문 강좌 (백기선) 
 
+https://www.inflearn.com/course/spring/lecture/15533
 ---
 
-## Getting started (from 2020.04.01)
+## IoC
 
-### IntelliJ로 Gradle 프로젝트 생성
+## AOP
 
-### Springboot Testcode 작성
-
-### TDD로 프로젝트 시작하고 단위테스트 작성 (Junit)
-* AssertThat in AssertJ
-* Lombok
+## PSA
