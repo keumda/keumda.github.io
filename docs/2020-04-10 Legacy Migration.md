@@ -1,12 +1,9 @@
 ---
-layout: post
+layout: default
 title: Spring Framework 레가시 시스템 마이그레이션 
 date: 2020-04-10 02:22
-category: 
-author: 
-tags: []
-summary: 
 nav-order: 4
+description: ""
 ---
 
 # 아키텍처 정의
