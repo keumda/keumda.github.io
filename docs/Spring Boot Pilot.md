@@ -6,13 +6,12 @@ description: ""
 ---
 
 # IntelliJ 설정 시작
-{: .fs-9 }
 
 ---
 
 ## Getting started (from 2020.04.01)
-https://github.com/jojoldu/freelec-springboot2-webservice.git
-https://jojoldu.tistory.com/
+[https://github.com/jojoldu/freelec-springboot2-webservice.git] . 
+[https://jojoldu.tistory.com/]
 
 ### IntelliJ로 Gradle 프로젝트 생성
 
