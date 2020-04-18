@@ -10,10 +10,8 @@ description: ""
 ---
 
 ## Getting started (from 2020.04.01)
-jojoldo 블로그 참고
-
-*[참고 git repo](https://github.com/jojoldu/freelec-springboot2-webservice.git)  
-*[참고 blog](https://jojoldu.tistory.com/)  
+[jojoldo git repo](https://github.com/jojoldu/freelec-springboot2-webservice.git)  
+[jojoldo blog](https://jojoldu.tistory.com/)  
 
 ### IntelliJ로 Gradle 프로젝트 생성
 
