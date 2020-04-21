@@ -63,3 +63,10 @@ Entity 클레스의 일부만 사용
 5. Domain
 실제 비지니스 로직을 처리
 
+## OAuth
+
+
+## Etc
+- git ignore - https://jojoldu.tistory.com/307?category=740343
+- grapQL "OO is not mapped" - https://www.arundhaj.com/blog/querysyntaxexception-not-mapped.html
+- intellj file not found - build > rebuild, file > invalidate caches
